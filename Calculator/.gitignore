@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rider project files
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Maui specific
+*.apk
+*.aab
+*.app
+*.ipa
+
+# macOS MAUI builds (if applicable)
+bin/
+obj/
+*.xcuserstate
+*.xcworkspace/
+*.xcassets/
+*.storyboard
+*.plist
+
+# Windows MAUI builds
+*.pdb
+*.exe
+*.dll
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# Local test results
+TestResults/
